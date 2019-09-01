@@ -4,12 +4,12 @@
 opencvで作ったテトリスです. 強化学習させるために即席で作ったのでクオリティは低いですが遊べます.
 
 ## Usage
-show display
 
 `python main.py`
 
+show display
 
-key
+### key
 
 space: start
 
