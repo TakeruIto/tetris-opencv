@@ -4,7 +4,9 @@
 opencvで作ったテトリスです. 強化学習させるために即席で作ったのでクオリティは低いですが遊べます.
 
 ## Usage
-'python main.py'
+`python main.py`
+
+
 key
 
 A: left
