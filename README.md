@@ -13,7 +13,7 @@ key
 
 space: start
 
-E: 
+E: pause or stop game
 
 A: left
 
